@@ -1,0 +1,5 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.49.3 clang-clang-602.0.49)"
+options: "46a20747591dc0471acdc75d198ba297"
+inputs: 
+- "/Users/lln/Desktop/study swift/testForXcode/testForXcode/ViewController.swift"
+- "/Users/lln/Desktop/study swift/testForXcode/testForXcode/AppDelegate.swift"
